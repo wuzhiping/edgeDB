@@ -1,6 +1,8 @@
 # EdgeDB
 https://www.edgedb.com/
 
+# http://localhost:5656/ui/
+
 # https://github.com/edgedb/edgedb
 <pre>
 version: "3"
